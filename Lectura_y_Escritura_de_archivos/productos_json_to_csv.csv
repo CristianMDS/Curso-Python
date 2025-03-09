@@ -1,0 +1,53 @@
+nombre,categoria,precio,stock
+Arroz,Alimentos,2800,100
+Frijoles,Alimentos,4500,50
+Aceite de Girasol,Alimentos,9500,30
+Panela,Alimentos,3500,75
+Detergente,Limpieza,7800,40
+JabÃ³n LÃ­quido,Limpieza,6500,60
+Shampoo,Higiene,12000,20
+Crema Dental,Higiene,7000,45
+Manzanas,Frutas,3200,150
+Bananas,Frutas,2500,200
+Leche,LÃ¡cteos,3200,80
+Queso,LÃ¡cteos,6500,50
+Huevos,Alimentos,3000,120
+Pollo,Carnes,8500,60
+Carne de Res,Carnes,15000,40
+Pescado,Pescados,18000,35
+Camarones,Mariscos,20000,25
+Cebolla,Vegetales,1800,130
+Tomate,Vegetales,2500,110
+Lechuga,Vegetales,1600,90
+Papas,Vegetales,2200,140
+Zanahorias,Vegetales,1900,100
+Yogur,LÃ¡cteos,4500,50
+Mantequilla,LÃ¡cteos,7800,30
+Helado,Postres,12000,25
+Pan,PanaderÃ­a,3000,80
+Galletas,PanaderÃ­a,5000,100
+CafÃ©,Bebidas,9000,60
+TÃ©,Bebidas,6000,70
+Jugo de Naranja,Bebidas,3500,90
+Refresco,Bebidas,2500,150
+Agua,Bebidas,2000,200
+Cereal,Desayuno,7500,40
+Avena,Desayuno,4000,70
+Mermelada,Desayuno,5500,50
+Mantequilla de ManÃ­,Desayuno,9500,35
+AzÃºcar,Alimentos,3000,90
+Sal,Alimentos,1500,120
+Pimienta,Alimentos,2500,80
+OrÃ©gano,Alimentos,2000,100
+Perejil,Alimentos,1800,60
+Comino,Alimentos,2300,90
+Pasta,Alimentos,3000,110
+Salsa de Tomate,Alimentos,3500,70
+Mayonesa,Alimentos,4500,60
+Mostaza,Alimentos,2500,80
+Ketchup,Alimentos,3000,90
+Salsa de Soya,Alimentos,3500,50
+Vinagre,Alimentos,2500,100
+Miel,Alimentos,8000,40
+Gaseosa,Bebidas,3000,150
+Six Pack Cerveza,Licores,16000,1000

@@ -1,0 +1,316 @@
+{
+    "productos": [
+        {
+            "nombre": "Arroz",
+            "categoria": "Alimentos",
+            "precio": 2800,
+            "stock": 100
+        },
+        {
+            "nombre": "Frijoles",
+            "categoria": "Alimentos",
+            "precio": 4500,
+            "stock": 50
+        },
+        {
+            "nombre": "Aceite de Girasol",
+            "categoria": "Alimentos",
+            "precio": 9500,
+            "stock": 30
+        },
+        {
+            "nombre": "Panela",
+            "categoria": "Alimentos",
+            "precio": 3500,
+            "stock": 75
+        },
+        {
+            "nombre": "Detergente",
+            "categoria": "Limpieza",
+            "precio": 7800,
+            "stock": 40
+        },
+        {
+            "nombre": "Jab\u00c3\u00b3n L\u00c3\u00adquido",
+            "categoria": "Limpieza",
+            "precio": 6500,
+            "stock": 60
+        },
+        {
+            "nombre": "Shampoo",
+            "categoria": "Higiene",
+            "precio": 12000,
+            "stock": 20
+        },
+        {
+            "nombre": "Crema Dental",
+            "categoria": "Higiene",
+            "precio": 7000,
+            "stock": 45
+        },
+        {
+            "nombre": "Manzanas",
+            "categoria": "Frutas",
+            "precio": 3200,
+            "stock": 150
+        },
+        {
+            "nombre": "Bananas",
+            "categoria": "Frutas",
+            "precio": 2500,
+            "stock": 200
+        },
+        {
+            "nombre": "Leche",
+            "categoria": "L\u00c3\u00a1cteos",
+            "precio": 3200,
+            "stock": 80
+        },
+        {
+            "nombre": "Queso",
+            "categoria": "L\u00c3\u00a1cteos",
+            "precio": 6500,
+            "stock": 50
+        },
+        {
+            "nombre": "Huevos",
+            "categoria": "Alimentos",
+            "precio": 3000,
+            "stock": 120
+        },
+        {
+            "nombre": "Pollo",
+            "categoria": "Carnes",
+            "precio": 8500,
+            "stock": 60
+        },
+        {
+            "nombre": "Carne de Res",
+            "categoria": "Carnes",
+            "precio": 15000,
+            "stock": 40
+        },
+        {
+            "nombre": "Pescado",
+            "categoria": "Pescados",
+            "precio": 18000,
+            "stock": 35
+        },
+        {
+            "nombre": "Camarones",
+            "categoria": "Mariscos",
+            "precio": 20000,
+            "stock": 25
+        },
+        {
+            "nombre": "Cebolla",
+            "categoria": "Vegetales",
+            "precio": 1800,
+            "stock": 130
+        },
+        {
+            "nombre": "Tomate",
+            "categoria": "Vegetales",
+            "precio": 2500,
+            "stock": 110
+        },
+        {
+            "nombre": "Lechuga",
+            "categoria": "Vegetales",
+            "precio": 1600,
+            "stock": 90
+        },
+        {
+            "nombre": "Papas",
+            "categoria": "Vegetales",
+            "precio": 2200,
+            "stock": 140
+        },
+        {
+            "nombre": "Zanahorias",
+            "categoria": "Vegetales",
+            "precio": 1900,
+            "stock": 100
+        },
+        {
+            "nombre": "Yogur",
+            "categoria": "L\u00c3\u00a1cteos",
+            "precio": 4500,
+            "stock": 50
+        },
+        {
+            "nombre": "Mantequilla",
+            "categoria": "L\u00c3\u00a1cteos",
+            "precio": 7800,
+            "stock": 30
+        },
+        {
+            "nombre": "Helado",
+            "categoria": "Postres",
+            "precio": 12000,
+            "stock": 25
+        },
+        {
+            "nombre": "Pan",
+            "categoria": "Panader\u00c3\u00ada",
+            "precio": 3000,
+            "stock": 80
+        },
+        {
+            "nombre": "Galletas",
+            "categoria": "Panader\u00c3\u00ada",
+            "precio": 5000,
+            "stock": 100
+        },
+        {
+            "nombre": "Caf\u00c3\u00a9",
+            "categoria": "Bebidas",
+            "precio": 9000,
+            "stock": 60
+        },
+        {
+            "nombre": "T\u00c3\u00a9",
+            "categoria": "Bebidas",
+            "precio": 6000,
+            "stock": 70
+        },
+        {
+            "nombre": "Jugo de Naranja",
+            "categoria": "Bebidas",
+            "precio": 3500,
+            "stock": 90
+        },
+        {
+            "nombre": "Refresco",
+            "categoria": "Bebidas",
+            "precio": 2500,
+            "stock": 150
+        },
+        {
+            "nombre": "Agua",
+            "categoria": "Bebidas",
+            "precio": 2000,
+            "stock": 200
+        },
+        {
+            "nombre": "Cereal",
+            "categoria": "Desayuno",
+            "precio": 7500,
+            "stock": 40
+        },
+        {
+            "nombre": "Avena",
+            "categoria": "Desayuno",
+            "precio": 4000,
+            "stock": 70
+        },
+        {
+            "nombre": "Mermelada",
+            "categoria": "Desayuno",
+            "precio": 5500,
+            "stock": 50
+        },
+        {
+            "nombre": "Mantequilla de Man\u00c3\u00ad",
+            "categoria": "Desayuno",
+            "precio": 9500,
+            "stock": 35
+        },
+        {
+            "nombre": "Az\u00c3\u00bacar",
+            "categoria": "Alimentos",
+            "precio": 3000,
+            "stock": 90
+        },
+        {
+            "nombre": "Sal",
+            "categoria": "Alimentos",
+            "precio": 1500,
+            "stock": 120
+        },
+        {
+            "nombre": "Pimienta",
+            "categoria": "Alimentos",
+            "precio": 2500,
+            "stock": 80
+        },
+        {
+            "nombre": "Or\u00c3\u00a9gano",
+            "categoria": "Alimentos",
+            "precio": 2000,
+            "stock": 100
+        },
+        {
+            "nombre": "Perejil",
+            "categoria": "Alimentos",
+            "precio": 1800,
+            "stock": 60
+        },
+        {
+            "nombre": "Comino",
+            "categoria": "Alimentos",
+            "precio": 2300,
+            "stock": 90
+        },
+        {
+            "nombre": "Pasta",
+            "categoria": "Alimentos",
+            "precio": 3000,
+            "stock": 110
+        },
+        {
+            "nombre": "Salsa de Tomate",
+            "categoria": "Alimentos",
+            "precio": 3500,
+            "stock": 70
+        },
+        {
+            "nombre": "Mayonesa",
+            "categoria": "Alimentos",
+            "precio": 4500,
+            "stock": 60
+        },
+        {
+            "nombre": "Mostaza",
+            "categoria": "Alimentos",
+            "precio": 2500,
+            "stock": 80
+        },
+        {
+            "nombre": "Ketchup",
+            "categoria": "Alimentos",
+            "precio": 3000,
+            "stock": 90
+        },
+        {
+            "nombre": "Salsa de Soya",
+            "categoria": "Alimentos",
+            "precio": 3500,
+            "stock": 50
+        },
+        {
+            "nombre": "Vinagre",
+            "categoria": "Alimentos",
+            "precio": 2500,
+            "stock": 100
+        },
+        {
+            "nombre": "Miel",
+            "categoria": "Alimentos",
+            "precio": 8000,
+            "stock": 40
+        },
+        {
+            "nombre": "Gaseosa",
+            "categoria": "Bebidas",
+            "precio": 3000,
+            "stock": 150
+        },
+        {
+            "nombre": "Six Pack Cerveza",
+            "categoria": "Licores",
+            "precio": 16000,
+            "stock": 1000
+        }
+    ]
+}
